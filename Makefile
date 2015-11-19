@@ -1,5 +1,5 @@
-NAME = dcrbsltd/ubuntu-terraform
-VERSION = 1
+NAME = dcrbsltd/terraform
+VERSION = 2
 .PHONY: all build clean test tag_latest release
 
 all: build

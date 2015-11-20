@@ -1,5 +1,5 @@
 NAME = dcrbsltd/terraform
-VERSION = 2
+VERSION = 3
 .PHONY: all build clean test tag_latest release
 
 all: build
